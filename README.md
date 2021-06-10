@@ -1,5 +1,5 @@
 # ERASE
-Numerical phantom and demonstration of ERASE method for artifact removal in MRS.
+Numerical phantom and demonstration of ERASE method for spurious echo artifact removal in MRS.
 
 Preprint available at https://doi.org/10.1101/2020.09.09.20191460
 

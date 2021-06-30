@@ -1,7 +1,7 @@
 # ERASE
 Numerical phantom and demonstration of ERASE method for spurious echo artifact removal in MRS.
 
-Preprint available at https://doi.org/10.1101/2020.09.09.20191460
+Online publication in MRM: https://onlinelibrary.wiley.com/doi/10.1002/mrm.28848
 
 Requires 'MRI Simulation and Reconstruction' Matlab code from 
 http://bigwww.epfl.ch/algorithms/mri-reconstruction/
